@@ -33,6 +33,13 @@ public class Arrey {
             for (int i1 = 0; i1 < num1[1].length; i1++) {
                 System.out.println(num1[i][i1]);
             }
+
+
+
+            int num[]={11,22,33,44,55};
+            for (int i1 = 0; i1 < num.length; i1++) {
+                System.out.println(num[i1]);
+            }
         }
     }
 }
